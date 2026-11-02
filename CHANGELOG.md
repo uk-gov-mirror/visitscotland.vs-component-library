@@ -1,3 +1,11 @@
+## [5.83.1](https://github.com/visitscotland/vs-component-library/compare/v5.83.0...v5.83.1) (2026-11-02)
+
+
+### Bug Fixes
+
+* **google map:** compiler warning - `defineEmits` doesnt need to be imported ([d7d2875](https://github.com/visitscotland/vs-component-library/commit/d7d2875611bc29a94fa4324f67e5c45f11eded82))
+* **styledlist:** apply margin to mobile as well as desktop ([489891f](https://github.com/visitscotland/vs-component-library/commit/489891fa3d13780b5aca674c9f62edcb6cf55d4d))
+
 # [5.83.0](https://github.com/visitscotland/vs-component-library/compare/v5.82.2...v5.83.0) (2026-10-28)
 
 
