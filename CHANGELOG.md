@@ -1,3 +1,23 @@
+# [5.83.0](https://github.com/visitscotland/vs-component-library/compare/v5.82.2...v5.83.0) (2026-10-28)
+
+
+### Features
+
+* **cta tokens and cta:** change token structure and update component ([c68cbc2](https://github.com/visitscotland/vs-component-library/commit/c68cbc2007a5e04b4316089b48f707ed36c27ca9))
+
+## [5.82.2](https://github.com/visitscotland/vs-component-library/compare/v5.82.1...v5.82.2) (2026-10-13)
+
+
+### Bug Fixes
+
+* **chromatic:** ignore contents of google map ([ab2e11f](https://github.com/visitscotland/vs-component-library/commit/ab2e11f2c5d85b89aec05718657179e8d5199a21))
+
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### [5.82.1](https://github.com/visitscotland/vs-component-library/compare/v5.82.0...v5.82.1) (2026-10-13)
+
 # [5.82.0](https://github.com/visitscotland/vs-component-library/compare/v5.81.2...v5.82.0) (2026-10-13)
 
 
