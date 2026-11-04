@@ -1,3 +1,10 @@
+## [5.83.2](https://github.com/visitscotland/vs-component-library/compare/v5.83.1...v5.83.2) (2026-11-04)
+
+
+### Bug Fixes
+
+* **security:** update critical dependabot issues ([f458d18](https://github.com/visitscotland/vs-component-library/commit/f458d18e98cdd2567f745998d90d2830a3ab880c))
+
 ## [5.83.1](https://github.com/visitscotland/vs-component-library/compare/v5.83.0...v5.83.1) (2026-11-02)
 
 
