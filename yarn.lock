@@ -4419,6 +4419,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/semver@npm:^7":
+  version: 7.8.0
+  resolution: "@types/semver@npm:7.8.0"
+  checksum: 10c0/46a1f38e36013448b279798e8b134e7e8de3b3630b1f40683903b9d57d36dd1d70838515570ed9a149fa09e9c381b9e39319b58d7b9f3b929b42ae2becff7aa3
+  languageName: node
+  linkType: hard
+
 "@types/stack-utils@npm:^2.0.3":
   version: 2.0.3
   resolution: "@types/stack-utils@npm:2.0.3"
@@ -4886,6 +4893,7 @@ __metadata:
     "@types/google.maps": "npm:^3.64.0"
     "@types/node": "npm:^26.0.1"
     "@types/react": "npm:^19.2.16"
+    "@types/semver": "npm:^7"
     "@vitejs/plugin-vue": "npm:^6.0.7"
     "@vue/compiler-dom": "npm:^3.5.35"
     "@vue/devtools-api": "npm:^8.1.5"
@@ -4924,6 +4932,7 @@ __metadata:
     prettier: "npm:^3.8.3"
     sass: "npm:^1.62.1"
     semantic-release: "npm:^25.0.3"
+    semver: "npm:7.8.5"
     standard-version: "npm:^9.5.0"
     storybook: "npm:10.6.2"
     storybook-addon-tag-badges: "npm:^3.1.0"
@@ -4942,6 +4951,7 @@ __metadata:
     vue-youtube-vue-3: "npm:^1.5.0"
     vue3-charts: "npm:^1.1.33"
     vue3-lazy-hydration: "npm:^1.2.1"
+    yaml: "npm:2.9.0"
   peerDependencies:
     "@popperjs/core": "*"
     "@vue/devtools-api": ^8.1.5
@@ -12926,11 +12936,11 @@ __metadata:
   linkType: hard
 
 "nanoid@npm:^3.3.12, nanoid@npm:^3.3.16":
-  version: 3.3.17
-  resolution: "nanoid@npm:3.3.17"
+  version: 3.3.18
+  resolution: "nanoid@npm:3.3.18"
   bin:
     nanoid: bin/nanoid.cjs
-  checksum: 10c0/06f7949c7cce5c92c6aea66022f29a1eae7f56e05acbfddf1e049e819b4bf234c44a765cc44da7163482b111677948514012e27acdfa56f95309295768bdae32
+  checksum: 10c0/b994b4e396730f8be2520923284e2040d61eaee55cc6d4935ef6d38d34bafdc46133eda4d3faea5073bda545aa6079d82b886caeac5c731cf9ac18bcc1301425
   languageName: node
   linkType: hard
 
@@ -15375,8 +15385,8 @@ __metadata:
   linkType: hard
 
 "semantic-release@npm:^25.0.3":
-  version: 25.0.8
-  resolution: "semantic-release@npm:25.0.8"
+  version: 25.0.9
+  resolution: "semantic-release@npm:25.0.9"
   dependencies:
     "@semantic-release/commit-analyzer": "npm:^13.0.1"
     "@semantic-release/error": "npm:^4.0.0"
@@ -15408,7 +15418,7 @@ __metadata:
     yargs: "npm:^18.0.0"
   bin:
     semantic-release: bin/semantic-release.js
-  checksum: 10c0/837211f18fcef80f93fa60999f7f4da72c12604097518f1fe3fc7aad4efebbdd5930d02fed1865a1efe9124d588ea01e2e4f4fa09f471a13a05a7628efe0daf3
+  checksum: 10c0/00ef3109206c023678c3b8771bb2985d2911cf990868a54d8e4302d08664b3246636e9f2a3e4f7cbe162eab5dfbeae7535a92381aa60b00a1d893375e3fc4b0d
   languageName: node
   linkType: hard
 
@@ -17990,7 +18000,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"yaml@npm:^2.9.0":
+"yaml@npm:2.9.0, yaml@npm:^2.9.0":
   version: 2.9.0
   resolution: "yaml@npm:2.9.0"
   bin:

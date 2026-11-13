@@ -1,3 +1,10 @@
+## [5.83.3](https://github.com/visitscotland/vs-component-library/compare/v5.83.2...v5.83.3) (2026-11-06)
+
+
+### Bug Fixes
+
+* **pagination:** add sr-only text to announce current page ([556cdc7](https://github.com/visitscotland/vs-component-library/commit/556cdc78984505a394730c8fe3996e02eabbf219))
+
 ## [5.83.2](https://github.com/visitscotland/vs-component-library/compare/v5.83.1...v5.83.2) (2026-11-04)
 
 
