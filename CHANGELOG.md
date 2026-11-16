@@ -1,3 +1,14 @@
+# [5.84.0](https://github.com/visitscotland/vs-component-library/compare/v5.83.3...v5.84.0) (2026-11-16)
+
+
+### Features
+
+* **automation:** add automation workflow to component library ([f7aa8f4](https://github.com/visitscotland/vs-component-library/commit/f7aa8f4c3458615b682f93a091e25d03cbfba4cc))
+* **color-cta.yml:** change button theme ([053f854](https://github.com/visitscotland/vs-component-library/commit/053f85436e816aa77d48cdaf19efa6b80a83d741))
+* **packages:** allow transformation on bootstrap-vue-next ([ffd0752](https://github.com/visitscotland/vs-component-library/commit/ffd07523bc442d00c1be050050a22b627ebe1aeb))
+* **packages:** yarn install ([57619ca](https://github.com/visitscotland/vs-component-library/commit/57619caba8ce3d6d50a6cdecdd6d270892b9609f))
+* **testing:** extend test job to run tests, lint and build ([e0f4c08](https://github.com/visitscotland/vs-component-library/commit/e0f4c08d3beff362289ba1c51317375261b08c3e))
+
 ## [5.83.3](https://github.com/visitscotland/vs-component-library/compare/v5.83.2...v5.83.3) (2026-11-06)
 
 
